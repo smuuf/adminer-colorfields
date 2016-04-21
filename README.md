@@ -8,9 +8,12 @@ If the cell's content matches either of the regexes down below, a small circle w
 
 #### Wait, what?
 
-Currently Colorfields extension supports **HEX** and **RGB(a)** formats. 
+Currently Colorfields extension supports **HEX** and **RGB(a)** formats:
 - HEX: `^#?([0-9a-fA-F]{3}){1,2}$`
-- RGB(a): `^rgba?\((\d+),(\d+),(\d+)(,(\d+))?\)$`- 
+- RGB(a): `^rgba?\((\d+),(\d+),(\d+)(,(\d+))?\)$`
 
 #### Eh, just show me what it looks like...
+
+Here you go, you rascal you:
+
 ![Preview](http://i.imgur.com/CyS2ncP.png)
